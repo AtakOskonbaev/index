@@ -1,4 +1,4 @@
-### README: `Student` Class
+### `Student` Class
 
 The `Student` class is designed to represent information about a student including their name, student ID, major, and GPA. It provides methods to display this information and determine scholarship eligibility based on GPA.
 
