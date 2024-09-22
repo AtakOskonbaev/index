@@ -26,4 +26,16 @@ public class Student {
         System.out.println("Major: " + major);
         System.out.println("GPA: " + gpa);
     }
+
+    public void canApplyForScholarship()
+    {
+        if (this.gpa >= 3.5f)
+        {
+            System.out.println("Can apply for scholarship");
+        }
+        else
+        {
+            System.out.println("Cannot apply for scholarship");
+        }
+    }
 }
